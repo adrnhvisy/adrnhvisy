@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Adrian Havis<br>🖥️ I’m a student at<br>Politeknik Negeri Padang, majoring in Information Management.<br>🚀 I’m looking to collaborate on<br>Projects related to web development and programming.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrnhvisy) 
-
 # 💻 Tech Stack:
 
 <p align="center">
