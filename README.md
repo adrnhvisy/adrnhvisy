@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrnhvisy&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
-</a>
+  <a href="https://github.com/deaafrizal" target="_blank">
+    <img src="https://img.shields.io/badge/Inspirasi%20Coding-Dea%20Afrizal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dea Afrizal GitHub" />
+  </a>
 </p>
 
 <p align="center">
