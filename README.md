@@ -1,9 +1,9 @@
 <h1 align="center">👋 Ngoding Dulu, Jagonya Belakangan!</h1>
 
 <p align="center">
-    <a href="https://instagram.com/adrnhvisy">
-      <img src="https://render.gitanimals.org/lines/adrnhvisy?pet-id=657051833278790750" width="600" height="120" />
-    </a>
+  <a href="https://instagram.com/adrnhvisy" target="_blank" rel="noopener noreferrer">
+    <img src="https://render.gitanimals.org/lines/adrnhvisy?pet-id=657051833278790750" width="600" height="120" alt="Gitanimals Pet" />
+  </a>
 </p>
 
 <p align="center">
