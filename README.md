@@ -1,4 +1,7 @@
-<h1 align="center">👋 Ngoding Dulu, Jagonya Belakangan!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ngoding+Dulu%2C+Jagonya+Belakangan!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://instagram.com/adrnhvisy" target="_blank" rel="noopener noreferrer">
@@ -8,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/deaafrizal" target="_blank">
-    <img src="https://img.shields.io/badge/Inspirasi%20Coding-Dea%20Afrizal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dea Afrizal GitHub" />
+    <img src="https://img.shields.io/badge/Inspirasi%20Coding-Dea%20Afrizal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dea Afrizal GitHub" height="28" />
   </a>
 </p>
 
